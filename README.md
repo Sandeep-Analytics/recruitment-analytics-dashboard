@@ -10,7 +10,6 @@ This project focuses on analyzing recruitment data and building an interactive d
 * Excel
 * Power Query (ETL)
 * DAX
-* SQL
 
 ## 📈 Key Metrics
 
