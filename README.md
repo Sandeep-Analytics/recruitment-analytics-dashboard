@@ -27,9 +27,12 @@ This project focuses on analyzing recruitment data and building an interactive d
 
 ## 📸 Dashboard Preview
 
-(Add your screenshots here)
+<img width="1087" height="502" alt="image" src="https://github.com/user-attachments/assets/be70ce3a-ea1d-4697-b3fc-01a35aec7a72" />
+
 
 ## 📁 Files Included
 
-* Dataset (Excel)
+* The dataset is hosted on Microsoft SharePoint.
+* 🔗 [Access Dataset](https://1drv.ms/x/c/4acd43fe0979353e/IQASybNt2B1TTZAnBB17qjU-AeAs05RxvE0fylNNkxSkouc?e=G9tkD8)
+* 
 * Power BI Dashboard (.pbix)
